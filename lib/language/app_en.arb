@@ -1,0 +1,47 @@
+{
+    "language": "English",
+    "@language":{
+        "description": "the current Language"
+    },
+    "helloWorld": "Hello World!",
+    "@helloWorld":{
+         "description": "A programmer bye"
+    },
+    "search": "Search",
+    "title": "Title",
+    "url": "Url",
+    "login": "Login",
+    "register": "Register",
+    "loginGoogle":"Login with Google",
+    "email": "Email",
+    "password": "Password",
+    "share":"Share",
+    "create":"Create link",
+    "is_private":"Change visibility",
+    "update":"Update",
+    "bioAuth":"Login with Biometric authentication",
+    "emailToResetpswd":"An email has been sent to reset your password",
+    "valid_email":"Enter a valid email",
+    "reset_password":"Reset password",
+    "forgot_password":"Forgot Password",
+    "or":"OR",
+    "new_to_linx":"New to Linx?",
+    "valid_password":"The password should contain almost 5 characters",
+    "usedlinxto":"I used Linx to send you ",
+    "downloadlinxon": "View more about linx on https://www.pecillizanini.me",
+    "text_home": "Keep up the work",
+    "categories": "Categories",
+    "create_categories": "Create categories",
+    "on_links": "What you saved so far",
+    "title_private":"They're your secrets",
+    "text_private":"Shh, is private",
+    "rate_us":"Rate us",
+    "website":"Our website",
+    "empty_title":"The title can't be empty",
+    "empty_link":"The link can't be empty",
+    "delete":"Delete",
+    "email_sended":"An e-mail was sent to verify your account, check your spam",
+    "terms":"Welcome to Linx, by pressing ok or closing this pop-up you will accept the terms and conditions visible via the appropriate button"
+,"terms_to_see":"Terms and conditions"
+
+}

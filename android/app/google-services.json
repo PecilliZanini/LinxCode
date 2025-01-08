@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "484140686895",
+    "project_id": "linx-7d3b6",
+    "storage_bucket": "linx-7d3b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484140686895:android:de5328d0ce84a58ca0b0da",
+        "android_client_info": {
+          "package_name": "pecilli.zanini.linx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484140686895-53nekdmd5o94vraq3tq721adphbmbcpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pecilli.zanini.linx",
+            "certificate_hash": "5082cb16243670129f6f55a887f35ef578107fbf"
+          }
+        },
+        {
+          "client_id": "484140686895-avht3faam0ag3c7u2ci7h9hce3f7os3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pecilli.zanini.linx",
+            "certificate_hash": "7611e3d6968bd174848a657473f4e931e970045a"
+          }
+        },
+        {
+          "client_id": "484140686895-ggafrg5fgu31l18ei4886nq9l0vqffb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pecilli.zanini.linx",
+            "certificate_hash": "76f5d71d3f5758f954285f7d08fff0d27a5f0217"
+          }
+        },
+        {
+          "client_id": "484140686895-rpm5dpml3uuk4qgig3qk4oakh4u5lvqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pecilli.zanini.linx",
+            "certificate_hash": "146386ab3bdf34d01a6a1de84ea5de06a19d564a"
+          }
+        },
+        {
+          "client_id": "484140686895-soceb3l9lkhhepbij9alie9kofg1ricp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3YX_Og-GRwrNpzVIQOxvdAe0jjdfVdjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484140686895-soceb3l9lkhhepbij9alie9kofg1ricp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484140686895:android:60ba287e324579cda0b0da",
+        "android_client_info": {
+          "package_name": "pecilli.zanini.linx.linxflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484140686895-2brug2jullvqkvdr1lsmp0f83mgad16i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pecilli.zanini.linx.linxflutter",
+            "certificate_hash": "146386ab3bdf34d01a6a1de84ea5de06a19d564a"
+          }
+        },
+        {
+          "client_id": "484140686895-65dh2fot79h067t27nt5lvapfook7f51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pecilli.zanini.linx.linxflutter",
+            "certificate_hash": "7611e3d6968bd174848a657473f4e931e970045a"
+          }
+        },
+        {
+          "client_id": "484140686895-elf8qch8v25oqs4raek1r6ds9k0k88r0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pecilli.zanini.linx.linxflutter",
+            "certificate_hash": "76f5d71d3f5758f954285f7d08fff0d27a5f0217"
+          }
+        },
+        {
+          "client_id": "484140686895-soceb3l9lkhhepbij9alie9kofg1ricp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3YX_Og-GRwrNpzVIQOxvdAe0jjdfVdjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484140686895-soceb3l9lkhhepbij9alie9kofg1ricp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

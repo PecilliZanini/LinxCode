@@ -1,0 +1,98 @@
+name: linxflutter
+description: Save your links!.
+
+
+version: 6.0.1+7
+
+environment:
+  sdk: ">=2.17.3 <3.0.0"
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter 
+  firebase_core: any
+  flutter_localizations: 
+    sdk: flutter
+  intl: any
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+  cloud_firestore: ^5.4.4
+  firebase_auth: ^5.3.1
+
+  email_validator: ^3.0.0
+  google_sign_in: ^6.2.1
+  google_sign_in_ios: ^5.4.2
+  awesome_snackbar_content: ^0.1.4
+  font_awesome_flutter: any
+  provider: any
+  local_auth: ^2.1.2
+  url_launcher: any
+  flutter_share: any
+  flutter_native_splash: any
+  google_fonts: ^6.2.1
+  flutter_signin_button: ^2.0.0
+  connectivity_plus: ^6.0.5
+  flutter_feather_icons: ^2.0.0+1
+  receive_sharing_intent: any
+  firebase_database: ^11.1.4
+  firebase_storage: ^12.3.2
+  smooth_page_indicator: ^1.0.0+2
+  shared_preferences: ^2.0.12
+  favicon: ^1.1.0
+  eventify: ^1.0.1
+  is_first_run: any
+  fluttertoast: ^8.1.1
+  rename: ^3.0.2
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.14.1
+  flutter_test:
+    sdk: flutter
+
+
+flutter_native_splash:
+  color: "fbfbfb"
+  image: "assets/logo512x512.jpg"
+  
+  
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo512x512.jpg"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  web:
+    generate: true
+    image_path: "assets/logo512x512.jpg"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+  windows:
+    generate: true
+    image_path: "assets/logo512x512.jpg"
+    icon_size: 48 # min:48, max:256, default: 48
+  macos:
+    generate: true
+    image_path: "assets/logo512x512.jpg"
+
+
+  flutter_lints: ^2.0.0
+  chip_list: ^2.2.3+7
+
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+
